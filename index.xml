@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo博客</title>
+    <link>https://maple436.github.io/</link>
+    <description>Recent content on hugo博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Wed, 17 Jun 2020 18:18:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://maple436.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hugo</title>
+      <link>https://maple436.github.io/posts/hugo%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 17 Jun 2020 18:18:36 +0800</pubDate>
+      
+      <guid>https://maple436.github.io/posts/hugo%E5%8D%9A%E5%AE%A2/</guid>
+      <description>如何使用 GitHub Pages 预览 HTML GitHub Pages 首先我们要知道GitHub Pages 是什么，GitHub Pages 是GitHub提供的展示你托管在GitHub上的网页。
+怎样使用GitHub Pages 你需要将一个本地仓库上传到GitHub上，然后打开这个仓库，这个仓库中存在一个html文件 当你点开html文件时你会发现你只能阅读到源码，并不会打开页面。
+所以你需要使用GitHub提供的GitHub Pages 点击这个选项在新的页面中找到GitHub Pages 第一次使用的时候你需要把图中1号位置的none改为与我相同的选项，当你更改后在图中2号位置就会出现一个域名，在这个域名后面加上你的html文件名然后访问这个域名就可以预览你想要预览的html文件了！</description>
+    </item>
+    
+  </channel>
+</rss>
